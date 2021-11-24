@@ -6,6 +6,7 @@ var allContestants;
 var answer;
 var database;
 
+
 var question, contestant, quiz;
 
 
